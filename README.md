@@ -3,7 +3,7 @@
 
 Name: Suneel kumar reddy katikareddy NetworkId:sxk66390
 
-VIDEO-LINK: 
+VIDEO-LINK: https://drive.google.com/file/d/1SebSri9xrXZZpIIxRz8h0cip6HirqvC2/view?usp=drive_link
 
 1.Add one more hidden layer to autoencoder In this code first we have executed the code which was given then we have added some hidden layers in encode(the encoded representation of the input) and in decode(the lossy reconstruction of the input) and this model plots an input to its reconstruction and also the encoder for its encoded representation and then compiling the model and loading the MNIST dataset after that normalize and flatten the data then train the autoencoder.
 
